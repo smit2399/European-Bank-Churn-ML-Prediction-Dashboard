@@ -136,6 +136,7 @@ it uses **engineered features that capture customer behavior patterns**
 ### Step 1: Clone the repository
 
 git clone https://github.com/your-username/European-Bank-Churn-ML-Prediction-Dashboard.git
+
 cd European Bank Churn ML Prediction Dashboard
 
 ### Step 2: Install dependencies
@@ -147,7 +148,7 @@ streamlit run app.py
 ---
 
 ## 🌐 Live Demo
-👉 (Add your Streamlit app link here after deployment)
+👉 https://european-bank-churn-ml-prediction-dashboard.streamlit.app/
 
 ---
 
