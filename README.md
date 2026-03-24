@@ -131,23 +131,6 @@ it uses **engineered features that capture customer behavior patterns**
 
 ---
 
-## 📂 Project Structure
-
-European-Bank-Churn-ML-Prediction-Dashboard/
-│
-├── app.py # Main Streamlit application
-├── requirements.txt # Dependencies
-├── runtime.txt # Python version
-├── README.md # Project documentation
-│
-├── model/
-│ └── xgb_model.pkl # Trained ML model
-│
-├── data/
-│ └── cleaned_data.csv # Processed dataset
-
----
-
 ## ▶️ How to Run Locally
 
 ### Step 1: Clone the repository
@@ -178,8 +161,8 @@ Age group 45+ shows higher churn probability
 ---
 
 ## 👨‍💻 Author
-
 Smit Prajapati
+
 Aspiring Data Scientist | Data Analyst | ML Engineer
 
 ---
